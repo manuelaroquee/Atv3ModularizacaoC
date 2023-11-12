@@ -13,9 +13,9 @@ int funcaoretorna(float a, float b){
 
 int main(){
     int n1, n2;
-    printf("Informe o primeiro valor = ");
+    printf("Informe o primeiro valor  ");
     scanf("%d", &n1);
-    printf("Informe o segundo valor = ");
+    printf("Informe o segundo valor  ");
     scanf("%d", &n2);
     printf("Maior valor = %d", funcaoretorna(n1, n2));
     
