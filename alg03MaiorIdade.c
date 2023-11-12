@@ -11,7 +11,7 @@ int maiorIdade(int i){
 
 int main(){
     int idade;
-    printf("Informe sua idade = ");
+    printf("Informe sua idade  ");
     scanf("%d", &idade);
     printf("\nSua idade = %d", maiorIdade(idade));
     
